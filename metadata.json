@@ -1,0 +1,6 @@
+{
+  "name": "Udit's Open World - 3D Driving Game",
+  "description": "An open-world 3D sandbox driving game featuring realistic vehicle handling, traffic, missions, garage customization, and an explorable city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
